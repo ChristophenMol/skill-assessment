@@ -1,0 +1,37 @@
+table,
+td,
+th {
+  border: 1px solid black;
+}
+
+.parent {
+  display: table-cell;
+  width: 800px;
+  height: 800px;
+  vertical-align: middle;
+  text-align: center;
+  background-color: yellow;
+}
+
+.first {
+  display: inline-block;
+  background-color: aquamarine;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+
+.second {
+  display: inline-block;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+.third {
+  display: inline-block;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
